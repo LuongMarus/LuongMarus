@@ -21,7 +21,8 @@ Xin chào! Mình là **Hà Đức Lương** (Junior), một sinh viên đam mê 
   
 - 🌐 **Thiết kế & Phát triển Website**:
   - HTML, CSS, JavaScript
-  - MySQL / MongoDB
+  - MySQL
+  - Laravel
 
 - 💻 **Công cụ & Công nghệ khác**:
   - Git, GitHub
