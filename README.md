@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=600&lines=Mobile+%26+Web+Developer;Flutter+%7C+Android+%7C+iOS;UI%2FUX+Designer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 🎓 **Sinh viên Công nghệ Thông tin** | 🏫 **Trường Cao Đẳng TDC**  
-📍 **Việt Nam** | 💼 **Junior Full-stack Developer**
+📍 **Việt Nam** | 💼 **Full-stack Developer**
 
 [![GitHub followers](https://img.shields.io/github/followers/LuongMarus?style=social)](https://github.com/LuongMarus)
 [![Email](https://img.shields.io/badge/Email-haducluong.dev%40gmail.com-red?logo=gmail&logoColor=white)](mailto:haducluong.dev@gmail.com)
@@ -72,9 +72,7 @@ class Developer {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuongMarus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuongMarus&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuongMarus&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuongMarus&theme=tokyonight&hide_border=true)
 
@@ -82,7 +80,7 @@ class Developer {
 
 ---
 
-## 🎯 Dự Án Nổi Bật
+## 🎯 Dự Án Chuyên Ngành
 
 ### 🍽️ SmartDine - Restaurant Management System
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuongMarus&repo=SmartDine_Marus_Feature&theme=tokyonight)](https://github.com/LuongMarus/SmartDine_Marus_Feature)
