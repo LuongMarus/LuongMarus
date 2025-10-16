@@ -23,13 +23,13 @@ Xin chào! Mình là **Hà Đức Lương**, một sinh viên đam mê công ngh
 class Developer {
   final String name = "Hà Đức Lương (Marus)";
   final String school = "Trường Cao Đẳng TDC";
-  final List<String> roles = ["Mobile Developer", "Web Developer", "UI/UX Designer"];
+  final List<String> roles = ["Mobile Developer", "UI/UX Designer"];
   
   List<String> getCurrentFocus() => [
-    "🎯 Flutter Development",
-    "🌐 Spring Boot & Laravel",
-    "📊 Data Visualization",
-    "🎨 UI/UX Design"
+    "🎯 Flutter & Dart Development",
+    "📱 Mobile Apps (iOS & Android)",
+    "�️ SQL & Firebase",
+    "🎨 UI/UX Design with Figma"
   ];
   
   String getMotto() => "Học, học nữa, học mãi – và không ngừng làm để trưởng thành!";
@@ -43,32 +43,28 @@ class Developer {
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-### 🌐 Web Development
+### 🌐 Web Development (Cơ bản)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🗄️ Database & Backend Services
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Web Services](https://img.shields.io/badge/Web_Services-0078D4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🎨 Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -91,13 +87,14 @@ class Developer {
 ### 🍽️ SmartDine - Restaurant Management System
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuongMarus&repo=SmartDine_Marus_Feature&theme=tokyonight)](https://github.com/LuongMarus/SmartDine_Marus_Feature)
 
-**Tech Stack**: Flutter, Spring Boot, PostgreSQL, fl_chart  
-**Vai trò**: Full-stack Developer, UI/UX Designer
+**Tech Stack**: Flutter, Dart, SQL, Firebase, fl_chart  
+**Vai trò**: Mobile Developer, UI/UX Designer
 
 - 📊 Hệ thống quản lý chi nhánh với 8 màn hình tương tác
 - 📈 Biểu đồ phân tích doanh thu và đơn hàng real-time
 - 🔔 Trung tâm thông báo với 10+ loại cảnh báo
 - 🎨 Dark/Light mode support
+- 📱 Hỗ trợ đa nền tảng (iOS, Android, Web)
 
 ### 💰 Ứng dụng Quản lý Chi tiêu Cá nhân
 **Platform**: iOS | **Tech**: Swift, CoreData
@@ -105,27 +102,31 @@ class Developer {
 - Theo dõi thu chi với biểu đồ trực quan
 - Phân loại chi tiêu thông minh
 - Báo cáo tài chính hàng tháng
+- Giao diện thân thiện với người dùng
 
 ### 📚 Ứng dụng Quản lý Sách
-**Platform**: Android | **Tech**: Java, Firebase
+**Platform**: Android | **Tech**: Kotlin, Firebase
 
 - Quản lý thư viện sách cá nhân
 - Tìm kiếm và đánh giá sách
-- Đồng bộ hóa qua Firebase
+- Đồng bộ hóa qua Firebase Realtime Database
+- Material Design UI
 
 ### 🛒 Website Bán hàng Online
-**Platform**: Web | **Tech**: Laravel, MySQL, Bootstrap
+**Platform**: Web | **Tech**: HTML, CSS, JavaScript, SQL
 
-- Thương mại điện tử đầy đủ tính năng
-- Giỏ hàng và thanh toán online
-- Quản trị viên và người dùng
+- Giao diện website bán hàng cơ bản
+- Giỏ hàng đơn giản
+- Quản lý sản phẩm
+- Responsive design
 
 ### 📖 Ứng dụng Học Từ vựng Tiếng Anh
-**Platform**: Flutter | **Tech**: Flutter, Firebase
+**Platform**: Flutter | **Tech**: Flutter, Dart, Firebase
 
 - Flashcard học từ vựng
 - Mini-games tương tác
 - Theo dõi tiến độ học tập
+- Cross-platform (iOS & Android)
 
 ---
 
@@ -133,26 +134,27 @@ class Developer {
 
 ```mermaid
 graph LR
-    A[HTML/CSS/JS] --> B[Flutter/Dart]
-    A --> C[Laravel/PHP]
-    B --> D[Android/iOS Native]
-    C --> E[Spring Boot/Java]
-    D --> F[Advanced Mobile Dev]
-    E --> F
-    F --> G[Full-stack Master]
+    A[HTML/CSS/JS Cơ bản] --> B[Flutter/Dart]
+    B --> C[Kotlin - Android]
+    B --> D[Swift - iOS]
+    C --> E[Mobile Apps Master]
+    D --> E
+    E --> F[Advanced Flutter & Backend]
 ```
 
 ### 🎯 Hiện tại đang học
 - ✅ Flutter Advanced Techniques
-- ✅ Spring Boot + PostgreSQL
-- ✅ Data Visualization (fl_chart)
-- ✅ State Management (Bloc, Riverpod)
+- ✅ Mobile UI/UX Design Patterns
+- ✅ Data Visualization với fl_chart
+- ✅ SQL Database Optimization
+- ✅ Firebase Services (Auth, Firestore, Storage)
 
 ### 📚 Kế hoạch tiếp theo
+- 🔄 State Management nâng cao (Bloc, Riverpod)
+- 🔄 Backend Development (Spring Boot hoặc Laravel)
+- 🔄 CI/CD cho Mobile Apps
 - 🔄 React Native
-- 🔄 Docker & Kubernetes
-- 🔄 GraphQL
-- 🔄 AWS/Firebase Advanced
+- 🔄 Cloud Services (AWS/GCP)
 
 ---
 
